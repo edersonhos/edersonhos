@@ -15,9 +15,6 @@
 </div>
   <br/>
   Apaixonado por tecnologia, conheciento e por mudar a vida das pessoas atraves da progamaçao!  
-
-##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edersonhos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
 ## Redes sociais!
 [![linkedim](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/ederson-henrique-70b645262/)
-##
