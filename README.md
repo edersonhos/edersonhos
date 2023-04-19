@@ -13,6 +13,8 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
+  <br/>
+  Apaixonado por tecnologia, conheciento e por mudar a vida das pessoas atraves da progamaçao!  
 
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edersonhos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
